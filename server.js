@@ -6,7 +6,7 @@
 *
 * Name: Arshdeep Singh Student ID: 169494218 Date: 15 April 2023
 *
-* Cyclic Web App URL: 
+* Cyclic Web App URL:https://rich-blue-harp-seal-toga.cyclic.app/
 *
 * GitHub Repository URL: https://github.com/oyearsh/asign6.git
 *
