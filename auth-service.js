@@ -25,7 +25,7 @@ let User;
 function initialize() {
     return new Promise((resolve, reject) => {
         // Creating a connection
-        let db = mongoose.createConnection("mongodb+srv://aryank1511:" + "computE1*" + "@web322-blog-app.mr1g2s5.mongodb.net/?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
+        let db = mongoose.createConnection("mongodb+srv://arshdeepsingh39:" + "qmMuQQUfp9hViztl" + "@cluster0.dzxax0v.mongodb.net/?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
         // Checking for errors
         db.on('error', (err)=>{
             reject(err);
